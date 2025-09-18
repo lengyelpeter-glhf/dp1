@@ -65,6 +65,8 @@ Segítség: [Markdown Guide](https://www.markdownguide.org/)
    * Számozott lista a tanulmányaidról
    * Számozatlan lista a hobbijaidról
 
+   
+
 2. **`projekt.md`**
 
    * H1 címsor: „Projektek”
